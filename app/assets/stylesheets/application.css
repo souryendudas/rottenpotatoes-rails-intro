@@ -19,7 +19,7 @@ html, body {
 	background: White;
 	color: DarkSlateGrey;
 	font-family: cursive, fantasy, sans-serif;
-	font-size: 12pt;
+	font-size: 15pt;
 }
 div#main {
 	margin: 0;
@@ -33,7 +33,7 @@ a {
 }
 h1 {
 	color: #7FFF00;
-	font-size: 130%;
+	font-size: 110%;
 	font-style: italic;
 	display: block;
 	width: 100%;
@@ -49,7 +49,7 @@ h1.title {
 	font-style: normal;
 }
 table#movies {
-	margin: 10px;
+	margin: 15px;
 	border-collapse: collapse;
 	width: 100%;
 	border-bottom: 2px solid black;
@@ -70,5 +70,5 @@ form label {
 	color: #4B0082;
 }
 table#movies th.hilite {
-	background-color: yellow;
+	background-color: yellow-orange;
 }
